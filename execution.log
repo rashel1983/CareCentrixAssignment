@@ -1,0 +1,16 @@
+04:03:11.027 [main] INFO  com.carecentrix.util.GenerateCSVfile - Failed to delete the file
+04:03:11.038 [main] INFO  com.carecentrix.util.GenerateRandom - Random ID generated successfully and the value is '1854'
+04:03:11.038 [main] INFO  com.carecentrix.util.GenerateRandom - Random gender generated successfully and the value is 'F'
+04:03:11.040 [main] INFO  com.carecentrix.util.GenerateRandom - Random date of birth generated successfully and the value is '2004-05-15'
+04:03:11.040 [main] INFO  com.carecentrix.util.GenerateRandom - Random ID generated successfully and the value is '1772'
+04:03:11.041 [main] INFO  com.carecentrix.util.GenerateRandom - Random gender generated successfully and the value is 'M'
+04:03:11.041 [main] INFO  com.carecentrix.util.GenerateRandom - Random date of birth generated successfully and the value is '1974-12-23'
+04:03:11.041 [main] INFO  com.carecentrix.util.GenerateRandom - Random ID generated successfully and the value is '1680'
+04:03:11.041 [main] INFO  com.carecentrix.util.GenerateRandom - Random gender generated successfully and the value is 'M'
+04:03:11.041 [main] INFO  com.carecentrix.util.GenerateRandom - Random date of birth generated successfully and the value is '1999-04-09'
+04:03:11.042 [main] INFO  com.carecentrix.util.GenerateRandom - Random ID generated successfully and the value is '1381'
+04:03:11.042 [main] INFO  com.carecentrix.util.GenerateRandom - Random gender generated successfully and the value is 'F'
+04:03:11.042 [main] INFO  com.carecentrix.util.GenerateRandom - Random date of birth generated successfully and the value is '1981-11-02'
+04:03:11.042 [main] INFO  com.carecentrix.util.GenerateCSVfile - CSV file generated successfully and saved in location './src/test/resources/sample.csv'
+04:03:11.044 [main] INFO  com.carecentrix.util.CopyFile - Failed to delete the file
+04:03:11.086 [main] INFO  com.carecentrix.util.CopyFile - File Coppied to '.\src\main\resources\sample.csv'
